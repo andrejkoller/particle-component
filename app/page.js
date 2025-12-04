@@ -16,12 +16,11 @@ export default function Home() {
 
         <p className="mt-5 mb-2 tracking-tight text-[23px] font-ios text-neutral-800">
           We help <span className="italic"> founders </span> launch their site
-          in 2 weeks from
-          <span className="text-blue-500 "> copy</span>,
-          <span className="text-red-500 "> brand</span>,
-          <span className="text-green-500 "> tagline</span>,{" "}
-          <span className="text-yellow-400 "> research</span>,
-          <span className="text-purple-500 "> visual</span> all done by us.
+          in 2 weeks from <span className="text-blue-500 ">copy,&nbsp;</span>{" "}
+          <span className="text-red-500 ">brand,&nbsp;</span>{" "}
+          <span className="text-green-500 ">tagline,&nbsp;</span>{" "}
+          <span className="text-yellow-400 ">research,&nbsp;</span>{" "}
+          <span className="text-purple-500 ">visual,&nbsp;</span>all done by us.
         </p>
         <p className="tracking-tighter text-neutral-400 font-playfair italic text-md">
           speed and building premium site is our superpower
