@@ -55,3 +55,5 @@ pnpm dev
 4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
 ## 📸 Screenshots
+<img width="1920" height="1080" alt="Screenshot 1" src="https://github.com/user-attachments/assets/68b71062-7cc2-43c6-af14-a5177d529909" />
+
